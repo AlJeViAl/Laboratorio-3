@@ -1,3 +1,11 @@
+/*
+ *UNIVERSIDAD DE COSTA RICA
+ *Escuela de Ingeniería Eléctrica
+ *IE0117: Programación Bajo Plataformas Abiertas
+ *Alejandro Viquez Alvarado
+ * */
+
+
 #include <stdio.h>
 
 int factorial(int n) {
