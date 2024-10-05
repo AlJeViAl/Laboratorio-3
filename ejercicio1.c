@@ -1,3 +1,11 @@
+/*
+ *UNIVERSIDAD DE COSTA RICA
+ *Escuela de Ingeniería Eléctrica
+ *IE0117: Programación Bajo Plataformas Abiertas
+ *Alejandro Viquez Alvarado
+ * */
+
+
 #include <stdio.h>
 
 int calcular_suma_diagonales(int filas, int columnas, int matriz[][columnas]) {
